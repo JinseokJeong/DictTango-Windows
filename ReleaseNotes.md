@@ -1,3 +1,32 @@
+v1.6.3.0
+
+### **English**
+
+1. Upgrade WinUI components to version 2.0
+2. Reduce memory usage during standard dictionary lookups
+3. Update the Edge version number for TTS
+
+---
+
+**Simplified Chinese（简体中文）**
+1. 升级WinUI组件到2.0
+2. 减少普通查词时的内存占用
+3. 更新TTS的Edge版本号
+   
+---
+### **Traditional Chinese (繁體中文)**
+
+1. 將 WinUI 元件升級至 2.0
+2. 降低一般查詞時的記憶體使用量
+3. 更新 TTS 的 Edge 版本號
+
+---
+
+If you want a more formal, release-note style or UI-friendly phrasing, I can refine it further.
+
+
+更新到 .NET 10
+
 # v1.6.0.0
 
 Update runtime to .net 10
