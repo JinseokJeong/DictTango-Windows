@@ -1,3 +1,19 @@
+v1.6.9
+
+### **English**
+
+1. Fixed display issues related to dark mode adaptation on Windows systems.
+
+---
+
+**Simplified Chinese（简体中文）**
+1. 修复了 Windows 系统暗黑模式适配下的显示异常问题
+   
+---
+### **Traditional Chinese (繁體中文)**
+
+1. 修復了 Windows 系統暗黑模式適配下的顯示異常問題。
+
 v1.6.6.0
 
 ### **English**
